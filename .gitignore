@@ -1,6 +1,4 @@
 __pycache__
 log
-*.index
-*.meta
 checkpoint
-snake_nn_2.tflearn.data-00000-of-00001
+neural_results.*
